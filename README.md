@@ -1,1 +1,1 @@
-# Building-Microservices-with-Spring-Boot-and-Spring-Cloud-Assignment-2
+# Here is a solution of an Udemy course assignment.
